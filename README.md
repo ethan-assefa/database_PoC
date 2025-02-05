@@ -18,4 +18,4 @@ Below is the Entity-Relation Diagram (ERD) of the database as we have conceptual
 
 This is simply a starting point, we can add or remove tables and/or variables as needed. This should be discussed and finalized before the true implementation of the project.
 
-![https://drive.google.com/file/d/1GrEhF7ES8mGUljo9fqnP-tkHko3McRaH/view?usp=sharing]
+![](https://drive.google.com/file/d/1GrEhF7ES8mGUljo9fqnP-tkHko3McRaH/view?usp=sharing)
